@@ -1,0 +1,2 @@
+# nostr-me-server
+nostrサーバー
